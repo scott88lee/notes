@@ -1,0 +1,10 @@
+Client security risk:
+- App source code exposure
+- Shared passwords
+
+Backend risks:
+- Database exposure, SQL injection
+- Rate limits
+- Improperly secured endpoints
+- Phishing, Social-Engineering
+- Clear text Database
