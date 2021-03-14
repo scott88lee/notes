@@ -1,0 +1,47 @@
+Introduction:
+I've been a FS developer for 3 years.
+NodeJS AWS, VueJs. I like JS because its very quick to develop apps.
+
+
+Reporting system: Two main functions
+Client facing. Transactional information - Reports - Billing - Actions - Refunds, Chargeback
+Internal Use - Funding / Billing
+
+Microservices, Highly cost optimized... I think too extreme.
+VUE.js SPA, api calls to lambda, offload some/significant to frontend.
+  
+CICD.
+Infra as code. Everytime we deploy it runs cloudformation
+Zero Fail deployemt, only bad code. 
+Infinitely scalable, Lambda. Drawbacks, coldstart.
+service to ping, or longer polling.
+
+
+in the pipeline would be to to caching...
+But doesnt solve problem of 1st query and interval.
+
+Problems
+Fullstack, Backend Engineering problems.
+Limited by the choice. Limits.
+Infinite scroll, pagination.
+Starting to hit theoritical limits, of api gateway.
+
+LEARNING: most useful CICD, speeds up production. Handle timezones.
+Research more about limitations before embarking proj.
+
+SAMIMA,
+Trying MVC design pattern.
+
+Day to day reporting. Inv levels, Credits/rebates.
+Forecasting, setting of Par values, cal sellthrough rates.
+Product aging
+
+UI/UX. User input is a big issue. I cannot prevent user errors.
+Come up with rules as I go along. POS in the future.
+
+Bootcamp - But mostly self taught. Prev role solo product
+Not pair programming, no code review. I wasnt sure if im doing the right thing or not. 
+As long as it works its ok.
+
+Im looking for an opportunity to learn to work in a team.
+Im flexible
